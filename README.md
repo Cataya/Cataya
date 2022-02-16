@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katja Mäkelä, alias@Cataya
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python(Just starting)
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me www.cataya.fi
 
 <!---
