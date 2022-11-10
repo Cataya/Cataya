@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katja Mäkelä, alias@Cataya
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python(Just starting)
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 👀 I’m interested in Linux and programming
+- 🌱 I’m currently Linux specialist student in Taitotalo, Helsinki, Finland
+<!--- - 💞️ I’m looking to interchip on Linux specialist  --->
 - 📫 How to reach me katja.makela@gmail.com and www.cataya.fi
 
 <!---
