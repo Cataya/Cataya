@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katja Mäkelä, alias@Cataya
 - 👀 I’m interested in Linux and programming
-- 🌱 I’m currently Linux specialist student in Taitotalo, Helsinki, Finland
+- 🌱 I’m Linux specialist from Helsinki, Finland
 
 - 📫 How to reach me? katja.makela@gmail.com and www.cataya.fi
 
