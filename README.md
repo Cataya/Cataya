@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katja Mäkelä, alias@Cataya
-- 👀 I’m interested in Linux and programming
+- 👀 I’m interested in Service Desk and ICT
 - 🌱 I’m Linux specialist from Helsinki, Finland
 
 - 📫 How to reach me? katja.makela@gmail.com and www.cataya.fi
